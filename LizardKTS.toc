@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff00ff00Lizard|r|cffffffffKTS|r |cffaaaaaa(Keep This Shit)|r
+## Notes: Shows upgrade chains for items.
+## Author: Lizard
+## Version: 1.0
+
+UpgradeDB.lua
+LizardKTS.lua

@@ -1,3 +1,5 @@
+<img width="487" height="482" alt="image" src="https://github.com/user-attachments/assets/dc7c7f14-be26-434a-8f72-a78e7bf54ca3" />
+
 # 🦎 LizardKTS (Keep This Shit)
 
 Quality-of-life addon for Synastria that reveals item upgrade chains to prevent accidental vendoring or deletion before attuning.
